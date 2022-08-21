@@ -1,6 +1,6 @@
 {
   "name": "pics",
-  "homepage": "http://rst515.github.io/pics",
+  "homepage": "http://rst515.github.io/react-pics",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
